@@ -1,0 +1,25 @@
+#d1{
+    border-top: 3px solid black;
+    border-left: 3px solid black;
+    border-bottom: 1px solid darkgray;
+    border-right: 1px solid darkgray;
+    padding: 5px;
+    margin-bottom: 20px;
+
+}
+#d2{
+    margin-bottom: 20px;
+    border-style: dotted;
+    border-bottom: 4px solid ;
+    border-top: 4px solid;
+    border-color: red;
+    border-width: 4px;
+
+}
+#d3{
+    border: 4px dashed blueviolet;
+    
+}
+h1{
+    padding-left: 10px;
+}

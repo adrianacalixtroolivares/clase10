@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200vh;
+}
+
+.imagen {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 30px;
+    max-width: 400px;
+    text-align: center;
+}
+
+.movie-poster {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.movie-title {
+    font-size: 24px;
+    margin: 15px 0;
+}
+
+.movie-info {
+    font-size: 16px;
+    color: #555;
+}
+
+.movie-info span {
+    display: block;
+    margin: 5px 0;
+}
+.sipnosis{
+    text-align:justify;
+   padding: 10px 25px;
+}

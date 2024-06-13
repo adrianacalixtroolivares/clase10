@@ -1,0 +1,13 @@
+#contenido{
+    text-align: center;
+    color: blueviolet;
+    background-color: beige;
+    border-style: dashed;
+}
+.fondo{
+margin: 30px;
+   padding: 30px;
+    background-color:pink;
+    border-style: dotted;
+    border-color: brown;
+}
